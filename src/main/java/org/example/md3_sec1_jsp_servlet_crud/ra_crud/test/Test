@@ -1,0 +1,4 @@
+http://localhost:8080//StudentServlet?action=EDIT
+http://localhost:8080//StudentServlet?action=getAll
+http://localhost:8080//StudentServlet?action=DELETE
+http://localhost:8080//StudentServlet?action=ADD
